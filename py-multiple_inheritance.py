@@ -33,4 +33,4 @@ print(M.mro())
 [<class '__main__.M'>, <class '__main__.B'>, <class '__main__.Y'>, <class '__main__.Z'>, <class '__main__.A'>, <class '__main__.X'>, <class 'object'>]
 """
 
-# Q. If we look at them in order, the expected result should be output. Should it?
+# Q. If we look at them in order, the expected result should be output. Shouldn't it?
